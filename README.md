@@ -64,4 +64,6 @@ Project Organization
 - [] Model Building.
 - [] Model Deployment
 - [] dvc Configuration
-- [] Front end 
+- [] Front end
+- [] CICD Pipeline
+- [] FInished
